@@ -1,0 +1,27 @@
+.about {
+  padding: 4rem 1rem;
+  background-color: #1a1a1a;
+  text-align: center;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+.about p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #ffffff;
+  margin-left: 3rem;
+  background: #252525; /* Warna dengan transparansi */
+  padding: 10px 15px; /* Spasi dalam box */
+  border-radius: 10px; /* Sudut rounded */
+  display: inline-block; /* Supaya ukuran box menyesuaikan teks */
+}
